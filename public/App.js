@@ -1,4 +1,5 @@
 
+
 function Game({ name, picture, rating}) {
   return(
     <div>
