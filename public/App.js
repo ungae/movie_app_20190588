@@ -1,4 +1,4 @@
-
+import propTypes from 'prop-types'
 
 function Game({ name, picture, rating}) {
   return(
