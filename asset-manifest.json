@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ungae/movie_app_20190588/static/css/main.068482fa.css",
+    "main.js": "/ungae/movie_app_20190588/static/js/main.d9337d07.js",
+    "index.html": "/ungae/movie_app_20190588/index.html",
+    "main.068482fa.css.map": "/ungae/movie_app_20190588/static/css/main.068482fa.css.map",
+    "main.d9337d07.js.map": "/ungae/movie_app_20190588/static/js/main.d9337d07.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068482fa.css",
+    "static/js/main.d9337d07.js"
+  ]
+}
